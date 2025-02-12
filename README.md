@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis-in-Banking-SQL-Power-BI
-GitHub Repository ReadMe
+
 Customer Churn Analysis in Banking – SQL & Power BI
 📌 Project Overview
 This project analyzes customer churn in the banking industry using SQL (SSMS) and Power BI. The goal is to identify key churn drivers and provide data-driven retention strategies to enhance customer loyalty and reduce attrition.
